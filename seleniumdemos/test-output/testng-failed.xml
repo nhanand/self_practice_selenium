@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.simplilearn.seleniumdemos.locator_identifiers">
+      <class name="com.simplilearn.seleniumdemos.css_selector_p">
         <methods>
-          <include name="link_examples"/>
+          <include name="css_selector_practice2"/>
         </methods>
-      </class> <!-- com.simplilearn.seleniumdemos.locator_identifiers -->
+      </class> <!-- com.simplilearn.seleniumdemos.css_selector_p -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
